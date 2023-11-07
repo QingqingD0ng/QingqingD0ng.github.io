@@ -19,9 +19,11 @@ redirect_from:
 
 # ABOUT ME
 
-I am a Ph.D. student in the preparatory phase at the [**CISPA Helmholtz Center for Information Security**](https://cispa.de/en), advised by [**Dr. Yang Zhang**](https://yangzhangalmo.github.io). I received my Bachelor’s degree in Computer Science from Beijing University of Posts and Telecommunications (**BUPT**) in 2022. 
+I am a Ph.D. student in the preparatory phase at the [**CISPA Helmholtz Center for Information Security**](https://cispa.de/en), advised by [**Dr. Yang Zhang**](https://yangzhangalmo.github.io). 
 
-My research interests lie in the field of **Trustworthy Machine Learning** and **Privacy**. Specifically, I am interested in developing algorithms that can detect and mitigate adversarial attacks on machine learning models. I am also interested in exploring the intersection of machine learning and privacy, and how we can design algorithms that can learn from sensitive data without compromising the privacy of individuals.
+I received my Bachelor’s degree in Computer Science from Beijing University of Posts and Telecommunications (**BUPT**) in 2022. 
+
+My research interests lie in the field of **Security and Privacy of Machine Learning**. 
 
 ## 📚 Publications
 
