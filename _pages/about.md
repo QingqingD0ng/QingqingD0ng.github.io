@@ -21,7 +21,7 @@ redirect_from:
 
 I am a Ph.D. student in the preparatory phase at the [**CISPA Helmholtz Center for Information Security**](https://cispa.de/en), advised by [**Dr. Yang Zhang**](https://yangzhangalmo.github.io). 
 
-I received my Bachelor’s degree in Computer Science from Beijing University of Posts and Telecommunications (**BUPT**) in 2022. 
+I received my Bachelor’s degree in Information Security from Beijing University of Posts and Telecommunications (**BUPT**) in 2022. 
 
 My research interests lie in the field of **Security and Privacy of Machine Learning**. 
 
