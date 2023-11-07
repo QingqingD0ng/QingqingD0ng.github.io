@@ -34,5 +34,5 @@ My research interests lie in the field of **Security and Privacy of Machine Lear
 - [A Malicious URL Detection Method Based on CNN](https://ieeexplore.ieee.org/abstract/document/9339761), Yu Chen, Yajian Zhou, **Qingqing Dong**, Qi Li
 
 ## 📖 Educations
-- *2023.11 - Now*, Ph.D, CISPA Helmholtz Center for Information Security, Germany.
+- *2023.11 - Now*, Ph.D. student, CISPA Helmholtz Center for Information Security, Germany.
 - *2018.09 - 2022.06*, Undergraduate, School of Cyberspace Security, Beijing Univeristy of Posts and Telecommunications, Beijing.
