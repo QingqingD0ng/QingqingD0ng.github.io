@@ -19,11 +19,9 @@ redirect_from:
 
 # ABOUT ME
 
-I am a Ph.D. student in the preparatory phase at the [**CISPA Helmholtz Center for Information Security**](https://cispa.de/en), advised by [**Dr. Yang Zhang**](https://yangzhangalmo.github.io). 
+I am a Ph.D. student in the preparatory phase at Saarland University. 
 
 I received my Bachelor’s degree in Information Security from Beijing University of Posts and Telecommunications (**BUPT**) in 2022. 
-
-My research interests lie in the field of **Security and Privacy of Machine Learning**. 
 
 ## 📚 Publications
 
@@ -34,5 +32,5 @@ My research interests lie in the field of **Security and Privacy of Machine Lear
 - [A Malicious URL Detection Method Based on CNN](https://ieeexplore.ieee.org/abstract/document/9339761), Yu Chen, Yajian Zhou, **Qingqing Dong**, Qi Li
 
 ## 📖 Educations
-- *2023.11 - Now*, Ph.D. student, CISPA Helmholtz Center for Information Security, Germany.
-- *2018.09 - 2022.06*, Undergraduate, School of Cyberspace Security, Beijing Univeristy of Posts and Telecommunications, Beijing.
+- *2023.11 - Now*, Ph.D. student, Saarland University, Saarbrücken Germany.
+- *2018.09 - 2022.06*, Undergraduate, School of Cyberspace Security, Beijing Univeristy of Posts and Telecommunications, Beijing China.
