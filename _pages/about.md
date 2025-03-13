@@ -23,7 +23,7 @@ Hi! I am a master student in computer science in Saarland University. I am reall
 
 My personal interests include doing meditation and yoga, going to gym with my gym buddy, inventing new ways to cook, spreading cat memes and binge eating chips.
 
-My resaerch interest lies in interdisciplinary studies such as socialtal computing, ethical AI and human-centered computing. if you want to know more about me, click [here]() tp download my CV.
+My resaerch interest lies in interdisciplinary studies such as socialtal computing, ethical AI and human-centered computing. if you want to know more about me, click [here](./docs/CV.pdf) tp download my CV.
 
 ## 📚 Publications
 
