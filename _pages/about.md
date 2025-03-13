@@ -19,9 +19,11 @@ redirect_from:
 
 # ABOUT ME
 
-I am a Ph.D. student in the preparatory phase at Saarland University. 
+Hi! I am a master student in computer science in Saarland University. I am really tired of fancy dazzling linkedin style self introductions and I want to do this in the simplest and most authentic way. I believe there is a calling for everybody on the earth to fullfill. And to me that calling is learning knowledge and helping others. I love to make this world a better place to live, even just for one moment one person at a time. 
 
-I received my Bachelor’s degree in Information Security from Beijing University of Posts and Telecommunications (**BUPT**) in 2022. 
+My personal interests include doing meditation and yoga, going to gym with my gym buddy, inventing new ways to cook, spreading cat memes and binge eating chips.
+
+My resaerch interest lies in interdisciplinary studies such as socialtal computing, ethical AI and human-centered computing. if you want to know more about me, click [here]() tp download my CV.
 
 ## 📚 Publications
 
@@ -32,5 +34,5 @@ I received my Bachelor’s degree in Information Security from Beijing Universit
 - [A Malicious URL Detection Method Based on CNN](https://ieeexplore.ieee.org/abstract/document/9339761), Yu Chen, Yajian Zhou, **Qingqing Dong**, Qi Li
 
 ## 📖 Educations
-- *2023.11 - Now*, Ph.D. student, Saarland University, Saarbrücken Germany.
+- *2023.11 - Now*, Master's student, Saarland University, Saarbrücken Germany.
 - *2018.09 - 2022.06*, Undergraduate, School of Cyberspace Security, Beijing Univeristy of Posts and Telecommunications, Beijing China.
