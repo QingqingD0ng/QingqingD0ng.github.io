@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Qingqing Dong (董青青)"
-description              : "Ph.D student at Saarland University"
+title                    : "Qingqing Dong(董青青)"
+description              : "Saarland University"
 repository               : "QingqingD0ng/QingqingD0ng.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,7 +21,7 @@ baidu_site_verification  :
 
 # Site Author
 author:
-  name             : "Qingqing Dong (董青青)"
+  name             : "Qingqing Dong(董青青)"
   avatar           : "images/profile.jpg"
   bio              : 
   location         : "Saarbrücken, Germany"
