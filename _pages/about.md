@@ -19,11 +19,11 @@ redirect_from:
 
 # ABOUT ME
 
-Hi! I am a master student in computer science in Saarland University. I am really tired of fancy dazzling linkedin style self introductions and I want to do this in the simplest and most authentic way. I believe there is a calling for everybody on the earth to fullfill. And to me that calling is learning knowledge and helping others. I love to make this world a better place to live, even just for one moment one person at a time. 
+Hi! I am a master's student of computer science at Saarland University. I am tired of fancy LinkedIn-style self-introductions, and I want to do this in the simplest and most authentic way. I believe there is a calling for everybody on Earth to fulfill. And to me, that calling is learning knowledge and helping others. I love to make this world a better place to live, even if just for one moment, one person at a time.
 
-My personal interests include doing meditation and yoga, going to gym with my gym buddy, inventing new ways to cook, spreading cat memes and binge eating chips.
+My personal interests include doing meditation and yoga, going to the gym with my gym buddy, inventing new ways to cook, spreading cat memes, and binge-eating chips.
 
-My resaerch interest lies in interdisciplinary studies such as socialtal computing, ethical AI and human-centered computing. If you want to know more about me, click [here](./docs/CV.pdf) to check my CV.
+My research interests lie in interdisciplinary studies such as societal computing, ethical AI, and human-centered computing. If you want to know more about me, click [here](./docs/CV.pdf) to check my CV.
 
 ## 📚 Publications
 
@@ -33,6 +33,6 @@ My resaerch interest lies in interdisciplinary studies such as socialtal computi
 ### 2020
 - [A Malicious URL Detection Method Based on CNN](https://ieeexplore.ieee.org/abstract/document/9339761), Yu Chen, Yajian Zhou, **Qingqing Dong**, Qi Li
 
-## 📖 Educations
+## 📖 Education
 - *2023.11 - Now*, Master's student, Saarland University, Saarbrücken Germany.
 - *2018.09 - 2022.06*, Undergraduate, School of Cyberspace Security, Beijing Univeristy of Posts and Telecommunications, Beijing China.
